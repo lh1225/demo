@@ -8,6 +8,7 @@ public class WWWDemo : MonoBehaviour {
 	public GameObject cube;
 	public GameObject sphere;
 
+	//新修改地方
 	void Start () {
 //		StartCoroutine ("downloadByFile");
 //		StartCoroutine ("downFormNet");
